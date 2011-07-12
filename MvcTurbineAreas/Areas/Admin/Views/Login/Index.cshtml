@@ -1,0 +1,20 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <title>Admin Area</title>
+</head>
+<body>
+    <div>
+        <p>@ViewData["Message"]</p>
+
+        @using (Html.BeginForm()) { 
+            <p>Username: @Html.TextBox("username")</p>
+            <p>Password: @Html.Password("password")</p>
+            <p><input type="submit" value="Login" /></p>
+        }
+    </div>
+</body>
+</html>
