@@ -116,7 +116,7 @@
     <Content Include="Areas\Admin\Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MvcTurbineAreas.BusinessLogic\MvcTurbineAreas.BusinessLogic.csproj">
+    <ProjectReference Include="..\MvcTurbineAreas.BusinessLogic\MvcTurbineAreas.BusinessLogic.csproj">
       <Project>{385213FD-BAB4-41C7-85D9-9533EE31A057}</Project>
       <Name>MvcTurbineAreas.BusinessLogic</Name>
     </ProjectReference>

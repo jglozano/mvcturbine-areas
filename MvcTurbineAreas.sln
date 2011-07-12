@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTurbineAreas", "MvcTurbineAreas\MvcTurbineAreas.csproj", "{201815B4-D891-4965-BE75-C86C44936F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTurbineAreas.BusinessLogic", "..\MvcTurbineAreas.BusinessLogic\MvcTurbineAreas.BusinessLogic.csproj", "{385213FD-BAB4-41C7-85D9-9533EE31A057}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTurbineAreas.BusinessLogic", "MvcTurbineAreas.BusinessLogic\MvcTurbineAreas.BusinessLogic.csproj", "{385213FD-BAB4-41C7-85D9-9533EE31A057}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
